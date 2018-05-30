@@ -7,7 +7,7 @@
        
         Hacemos click en el botón Sign up for free.
         
-    ![hola](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/Sign_in.png)
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/Sign_in.png)
 
         Nos damos de alta con nuestra cuenta de google.
 
