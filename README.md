@@ -1,6 +1,41 @@
 # **Proyecto 1C1. Desarrollo de un chatbot para el acceso a información financiera y presupeustaria de los ayuntamientos.**
 
-### Módulo 3: Agente Inteligent
+### Módulo 2: Agente Inteligent
 
-Copia del Agente creado en API.IA, listo para ser montado de nuevo. API.AI por medio de técnicas de Machine Learning y NLP se encarga de establecer la coincidencia en las preguntas.
+
+1. Nos damos de alta en [Dialogflow](https://dialogflow.com/)
+       
+        Hacemos click en el botón Sign up for free.
+        
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/Sign_in.png)
+
+        Nos damos de alta con nuestra cuenta de google.
+
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/sign_in_google.png)
+
+2. Importamos el archivo punto zip a nuestro nuevo agente.
+
+        Presionando el botón con el icono de engranaje, nos envía a la configuración del nuevo agente.
+        
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/New_Agen.png)
+
+        Presionamos la pestaña Export and Import.
+
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/Set_new_Agent)
+       
+        Hacemos click donde dice IMPORT FROM ZIP.
+ 
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/Import_zip.png)
+ 
+        Seleccionamos el archivo infoecoVLC.zip.
+
+        Escribimos IMPORT y hacemos click en el botón import.
+
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/type_import.png)
+
+        Listo ya tenemos nuestro agente configurado.
+        
+
+
+
 
