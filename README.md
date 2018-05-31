@@ -21,13 +21,14 @@
 
         Presionamos la pestaña Export and Import.
 
-    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/Set_new_Agent)
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/Set_new_Agent.png)
        
         Hacemos click donde dice IMPORT FROM ZIP.
  
     ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/Import_zip.png)
  
         Seleccionamos el archivo infoecoVLC.zip.
+        
 
         Escribimos IMPORT y hacemos click en el botón import.
 
