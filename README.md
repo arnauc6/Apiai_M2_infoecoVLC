@@ -7,31 +7,32 @@
        
         Hacemos click en el botón Sign up for free.
         
-    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/Sign_in.png)
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/Sign_in.png)
 
         Nos damos de alta con nuestra cuenta de google.
 
-    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/sign_in_google.png)
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/sign_in_google.png)
 
 2. Importamos el archivo punto zip a nuestro nuevo agente.
 
         Presionando el botón con el icono de engranaje, nos envía a la configuración del nuevo agente.
         
-    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/New_Agen.png)
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/New_Agen.png)
 
         Presionamos la pestaña Export and Import.
 
-    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/Set_new_Agent)
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/Set_new_Agent.png)
        
         Hacemos click donde dice IMPORT FROM ZIP.
  
-    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/Import_zip.png)
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/Import_zip.png)
  
         Seleccionamos el archivo infoecoVLC.zip.
+        
 
         Escribimos IMPORT y hacemos click en el botón import.
 
-    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/Imagen/type_import.png)
+    ![](https://github.com/areahackerscivics/Apiai_M2_infoecoVLC/blob/master/Imagen/type_import.png)
 
         Listo ya tenemos nuestro agente configurado.
         
